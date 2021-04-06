@@ -1,0 +1,25 @@
+.Exercise {
+  background-color: #e6651d;
+  width: 60%;
+  margin: 24px auto;
+
+  box-shadow: 2px 4px 8px #ba1616;
+  padding: 8px;
+  text-align: center;
+}
+
+.ExerciseInput{
+  color: #e6651d;
+  background-color: #f8f5f5;
+  text-align: center;
+  font-family: "Monaco", Helvetica, monospace;
+  border: 2px solid  #ba1616
+}
+
+.ExerciseButton{
+  color: #f8f5f5;
+  background-color: #e6651d;
+  text-align: center;
+  font-family: "Monaco", Helvetica, monospace;
+  border: 2px solid  #f8f5f5
+}

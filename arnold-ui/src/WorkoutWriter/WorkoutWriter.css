@@ -1,0 +1,22 @@
+.WorkoutWriter {
+  color: #f8f5f5;
+  background-color: #163d49;
+  width: 100%;
+  margin: 0px auto;
+  padding: 8px;
+  text-align: center;
+  font-family: "Monaco", Helvetica, monospace;
+}
+
+.WorkoutWriterButton{
+  margin-top: 20px;
+  margin-bottom: 500px;
+  color: #f8f5f5;
+  box-shadow: 2px 2px 1px 1px #f8f5f5;
+  border: 2px solid #f8f5f5;
+  background-color: #163d49;
+  width: 25%;
+  padding: 12px;
+  font-size: medium;
+  font-family: "Monaco", Helvetica, monospace;
+}
